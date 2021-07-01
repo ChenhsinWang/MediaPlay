@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_name">释放</string>
+    <string-array name="data">
+    <item>从raw播放</item>
+
+    </string-array>
+</resources>
